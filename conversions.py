@@ -1,6 +1,6 @@
 
 def convertCelsiusToKelvin(celsius):
-    """Takes in a float representing a Celsius measurement, and returns that temperature converted into Kelvins"
+    """Takes in a float representing a Celsius measurement, and returns that temperature converted into Kelvins"""
     kelvins = 0
     
     return kelvins
